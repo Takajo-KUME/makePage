@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+title: enPit2018 GitHub pages おためし
+description: Git Pagesについて試しています
+github:
+  is_project_page: false
