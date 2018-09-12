@@ -15,3 +15,5 @@ T THis is an H1
 ![
 
 This is <span style="color:red">red</span>
+#　画像　img
+![カルミア](bx00-150.jpg)
